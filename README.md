@@ -5,6 +5,7 @@
 
 #### Tecnologías que estoy aprendiendo actualmente:
 
+- Javascript (sigo con ejercicios de Vanilla para escribir código más limpio y aprender las buenas prácticas)
 - React JS (principalmente).
 - Node JS.
 - Redux.
