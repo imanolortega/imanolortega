@@ -1,8 +1,10 @@
 ### Buenas 👋
 
-⭐ Actualmente estoy aprendiendo Desarrollo Web Frontend. Comencé a programar con Python hace unos años pero desde el año pasado estoy aprendiendo Javascript. 
+⭐ Actualmente estoy aprendiendo Desarrollo Web Frontend con React JS. Comencé a programar con Python hace unos años pero desde el año pasado estoy aprendiendo Javascript. 
 
 📌 Vivo en Santiago del Estero, Argentina.
+
+👉 [LinkedIn](https://www.linkedin.com/in/imanol-rtega/)
 
 #### 🌱 Tecnologías que estoy aprendiendo actualmente:
 
