@@ -24,3 +24,11 @@
 - React Native.
 
 #### 🚀 Abajo pueden ver algunos de los últimos proyectos que hice:
+
+👉 [Tetris](https://tetris-reactjs.vercel.app/)
+👉 [Clon de Disney Plus](https://disney-clon-51eba.web.app/)
+👉 [Clon de Amazon](https://clone-563e4.web.app/)
+👉 [Clon de Twitter](https://vuejs-firebase-2e83a.web.app/)
+👉 [Covid Tracker](https://covid-tracker-616b2.web.app/)
+👉 [Buscador de Noticias de Blogs](https://blogcito.netlify.app/)
+👉 [Datatable que renderizan datos de Google Sheets](http://clasesvirtuales.faya.com.ar/)
