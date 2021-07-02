@@ -8,7 +8,7 @@
 
 #### 🌱 Tecnologías que estoy aprendiendo actualmente:
 
-- Javascript (sigo con ejercicios de Vanilla para escribir código más limpio y buenas prácticas).
+- Javascript.
 - React JS (principalmente).
 - Firebase.
 - Node JS.
