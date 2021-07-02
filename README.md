@@ -13,6 +13,7 @@
 - Firebase.
 - Node JS.
 - Redux.
+- Git.
 - CSS (BEM, Styled-Components, Bootstrap, Material UI).
 - HTML.
 
