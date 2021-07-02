@@ -19,8 +19,8 @@
 
 #### 🌱 Algunas tecnologías que comencé a aprender pero no continúo:
 
-- Python (el primer lenguajes que aprendí, también sé algo de C).
-- Vue JS (primer Framework de JS que usé).
+- Python.
+- Vue JS.
 - React Native.
 
 #### 🚀 Abajo pueden ver algunos de los últimos proyectos que hice:
