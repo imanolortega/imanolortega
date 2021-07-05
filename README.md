@@ -14,7 +14,8 @@
 - React JS (principalmente).
 - Firebase.
 - Node JS.
-- Redux.
+- Next JS.
+- Redux JS.
 - Git.
 - CSS (BEM, Styled-Components, Bootstrap, Material UI).
 - HTML.
