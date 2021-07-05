@@ -4,6 +4,8 @@
 
 📌 Vivo en Santiago del Estero, Argentina.
 
+👉 [Portfolio](https://imanolortega.vercel.app/)
+
 👉 [LinkedIn](https://www.linkedin.com/in/imanol-rtega/)
 
 #### 🌱 Tecnologías que estoy aprendiendo actualmente:
