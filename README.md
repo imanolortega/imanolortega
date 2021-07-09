@@ -17,7 +17,7 @@
 - Next JS.
 - Redux JS.
 - Git.
-- CSS (BEM, Styled-Components, Bootstrap, Material UI).
+- CSS (BEM, Styled-Components, Bootstrap, Material UI, Tailwind CSS).
 - HTML.
 
 #### 🌱 Algunas tecnologías que comencé a aprender pero no continúo:
