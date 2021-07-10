@@ -28,6 +28,7 @@
 
 #### 🚀 Abajo pueden ver algunos de los últimos proyectos que hice:
 
+- [Clon de Facebook](https://clone-sepia.vercel.app/)
 - [Tetris](https://tetris-reactjs.vercel.app/)
 - [Clon de Disney Plus](https://disney-clon-51eba.web.app/)
 - [Clon de Amazon](https://clone-563e4.web.app/)
