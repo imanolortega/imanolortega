@@ -14,6 +14,7 @@
 - React JS (principalmente).
 - Firebase.
 - Node JS.
+- Express JS.
 - Next JS.
 - Redux JS.
 - Git.
