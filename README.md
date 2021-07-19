@@ -11,7 +11,8 @@
 #### 🌱 Tecnologías que estoy aprendiendo actualmente:
 
 - Javascript.
-- React JS (principalmente).
+- React JS.
+- Vue JS.
 - Firebase.
 - Node JS.
 - Express JS.
