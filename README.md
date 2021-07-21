@@ -1,6 +1,6 @@
 ### Buenas 👋
 
-⭐ Actualmente estoy aprendiendo Desarrollo Web Frontend con React JS. Comencé a programar con Python hace unos años y desde el año pasado estoy aprendiendo Javascript. A pesar de que comencé a estudiar Frontend en 2020 todavía no había subido repositorios a GitHub. Desde mayo de 2021 comencé a subir proyectos actuales.
+⭐ Actualmente estoy aprendiendo Desarrollo Web Frontend con React JS. Comencé a programar con Python hace unos años y desde el año pasado estoy aprendiendo Javascript. Desde mayo de 2021 comencé a subir proyectos actuales.
 
 📌 Vivo en Santiago del Estero, Argentina.
 
