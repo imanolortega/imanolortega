@@ -25,7 +25,6 @@
 #### 🌱 Algunas tecnologías que comencé a aprender pero no continúo:
 
 - Python.
-- Vue JS.
 - React Native.
 
 #### 🚀 Abajo pueden ver algunos de los últimos proyectos que hice:
