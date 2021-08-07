@@ -1,6 +1,6 @@
 ### Buenas 👋
 
-⭐ Actualmente estoy aprendiendo Desarrollo Web Frontend con React JS. Comencé a programar con Python hace unos años y desde el año pasado estoy aprendiendo Javascript. Desde mayo de 2021 comencé a subir proyectos actuales.
+⭐ Soy Programador Frontend, trabajo principalmente con Javascript, Vue JS y React JS. Trabajo en [Silstech](https://www.linkedin.com/company/silstech/). Comencé a programar con Python hace unos años y desde 2019 estoy aprendiendo Javascript. Desde mayo de 2021 comencé a subir proyectos actuales.
 
 📌 Vivo en Santiago del Estero, Argentina.
 
