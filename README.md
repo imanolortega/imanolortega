@@ -20,7 +20,7 @@
 - CSS (BEM, Styled-Components, Bootstrap, Material UI, Tailwind CSS).
 - HTML.
 
-#### 🌱 Algunas tecnologías que comencé a aprender pero no continúo:
+#### 🌱 Algunas tecnologías que también usé:
 
 - Python.
 - React Native.
