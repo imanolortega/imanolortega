@@ -1,6 +1,6 @@
 ### Buenas 👋
 
-⭐ Soy Programador Frontend, trabajo principalmente con Javascript, Vue JS y React JS. Actualmente laburo en [Silstech](https://www.linkedin.com/company/silstech/). Comencé a programar con Python hace unos años y desde 2019 estoy aprendiendo Javascript. Desde mayo de 2021 comencé a subir proyectos actuales.
+⭐ Soy Programador Frontend, trabajo principalmente con Javascript, Vue JS y React JS. Actualmente laburo en [Silstech](https://www.linkedin.com/company/silstech/). Comencé a programar con Python hace unos años y desde 2020 estoy aprendiendo Javascript. Desde mayo de 2021 comencé a subir proyectos actuales.
 
 👉 [Portfolio](https://imanolortega.vercel.app/)
 
