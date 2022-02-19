@@ -6,29 +6,9 @@ Comencé a programar con Python en 2018 como un hobby, y desde fines de 2019 est
 
 Soy apasionado de Javascript y React, fan de Next JS y fundamentalista de las single-page applications. Sigo estudiando programación web, enfocado en mantener buenas prácticas y alcanzar conocimientos de Programador Fullstack. Mi objetivo principal es aportar para hacer una web más rápida y accesible.
 
-👉 [Portfolio](https://imanolortega.vercel.app/)
+👉 [Personal Site](https://www.imanol.work/)
 
 👉 [LinkedIn](https://www.linkedin.com/in/imanol-rtega/)
-
-#### 🌱 Tecnologías que estoy aprendiendo actualmente:
-
-- Javascript.
-- React JS.
-- Vue JS.
-- GraphQL.
-- Firebase.
-- Node JS.
-- Express JS.
-- Next JS.
-- Redux JS.
-- Git.
-- CSS (BEM, Styled-Components, Bootstrap, Material UI, Tailwind CSS).
-- HTML.
-
-#### 🌱 Algunas tecnologías que también usé:
-
-- Python.
-- React Native.
 
 #### 🚀 Abajo pueden ver algunos de los proyectos y challenges trainee que hice en la primera mitad de 2021:
 
