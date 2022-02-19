@@ -17,6 +17,6 @@ Soy apasionado de Javascript y React, fan de Next JS y fundamentalista de las si
 - [Clon de Disney Plus](https://disney-clon-51eba.web.app/)
 - [Covid Tracker](https://covid-tracker-vue.vercel.app/)
 - [Buscador de Noticias de Blogs](https://blogcito.netlify.app/)
-- [Datatable que renderizan datos de Google Sheets](http://clasesvirtuales.faya.com.ar/)
+- [Datatable que renderizan datos de Google Sheets](https://datatable-googlesheets.vercel.app/)
 
 Próximamente voy a subir proyectos actuales.
