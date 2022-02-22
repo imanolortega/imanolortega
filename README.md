@@ -4,7 +4,7 @@
 
 Comencé a programar con Python en 2018 como un hobby, y desde fines de 2019 estudio programación web.
 
-Soy apasionado de Javascript y React, fan de Next JS y fundamentalista de las single-page applications. Sigo estudiando programación web, enfocado en mantener buenas prácticas y alcanzar conocimientos de Programador Fullstack. Mi objetivo principal es aportar para hacer una web más rápida y accesible.
+Actualmente trabajo con Next JS en el Front y generalmente con algún CMS (headless o no) en el Back. Sigo estudiando en el día a día, enfocado en mantener buenas prácticas y convertirme en Fullstack. Mi foco hoy está en la experiencia de usuario: webs rápidas, intuitivas y accesibles.
 
 👉 [Personal Site](https://www.imanol.work/)
 
