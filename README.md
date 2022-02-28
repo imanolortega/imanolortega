@@ -17,6 +17,9 @@ Actualmente trabajo con Next JS en el Front y generalmente con algún CMS (headl
 - [Clon de Disney Plus](https://disney-clon-51eba.web.app/)
 - [Covid Tracker](https://covid-tracker-vue.vercel.app/)
 - [Buscador de Noticias de Blogs](https://blogcito.netlify.app/)
-- [Datatable que renderizan datos de Google Sheets](https://datatable-googlesheets.vercel.app/)
+- [Clon de Amazon](https://clone-563e4.web.app/)
+- [IP Tracker](https://github.com/imanolrtega/ip-tracker)
+
+- [Nueva web personal (2022)](https://www.imanol.work/)
 
 Próximamente voy a subir proyectos actuales.
