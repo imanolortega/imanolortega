@@ -1,6 +1,6 @@
 ### Buenas 👋
 
-⭐ Soy programador Frontend Jr. Antes fui diseñador gráfico y estudiante de Licenciatura en Comunicación Social. Actualmente laburo en [Easytechgreen](https://easytechgreen.com/).
+⭐ Soy programador Frontend Jr en [Easytechgreen](https://easytechgreen.com/). Antes fui diseñador gráfico y estudiante de Licenciatura en Comunicación Social.
 
 Comencé a programar con Python en 2018 como un hobby, y desde fines de 2019 estudio programación web.
 
