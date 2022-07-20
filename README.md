@@ -20,6 +20,8 @@ Actualmente trabajo con Next JS en el Front y generalmente con algún headless C
 - [Clon de Amazon](https://clone-563e4.web.app/)
 - [IP Tracker](https://github.com/imanolrtega/ip-tracker)
 
+#### 🚀 Mi nueva web:
+
 - [Nueva web personal (2022)](https://www.imanol.work/)
 
-Próximamente voy a subir proyectos actuales.
+Próximamente voy a subir proyectos actuales de React/Next y React Native.
