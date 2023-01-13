@@ -2,9 +2,9 @@
 
 ⭐ Soy programador Frontend en [Easytechgreen](https://easytechgreen.com/). Antes fui diseñador gráfico y estudiante de Licenciatura en Comunicación Social.
 
-Comencé a programar con Python en 2018 como un hobby, y desde fines de 2019 estudio programación web.
+Comencé a programar con Python en 2018 como un hobby, y desde fines de 2019 estudio programación web. 
 
-Actualmente trabajo con Next JS en el Front y generalmente con algún headless CMS en el Back. Sigo estudiando en el día a día, enfocado en mantener buenas prácticas y convertirme en Fullstack. Mi foco hoy está en la experiencia de usuario: webs rápidas, intuitivas y accesibles.
+Trabajo con NextJS en el Front y generalmente con algún CMS (headless o no) en el Back. Utilizo JavaScript y TypeScript dependiendo del proyecto. También trabajé con algo de Vue JS y React Native. Mi foco hoy está en la experiencia de usuario: webs rápidas, intuitivas y accesibles.
 
 👉 [Personal Site](https://www.imanol.work/)
 
