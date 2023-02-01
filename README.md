@@ -6,7 +6,7 @@ Comencé a programar con Python en 2018 como un hobby, y desde fines de 2019 est
 
 Trabajo con NextJS en el Front y generalmente con algún CMS (headless o no) en el Back. Utilizo JavaScript y TypeScript dependiendo del proyecto. También trabajé con algo de Vue JS y React Native. Mi foco hoy está en la experiencia de usuario: webs rápidas, intuitivas y accesibles.
 
-👉 [Personal Site](https://www.imanol.work/)
+👉 [Personal Site](https://imanol.vercel.app/)
 
 👉 [LinkedIn](https://www.linkedin.com/in/imanol-rtega/)
 
@@ -22,6 +22,6 @@ Trabajo con NextJS en el Front y generalmente con algún CMS (headless o no) en 
 
 #### 🚀 Mi nueva web:
 
-- [Nueva web personal (2022)](https://www.imanol.work/)
+- [Nueva web personal (2022)](https://imanol.vercel.app/)
 
 Próximamente voy a subir proyectos actuales de React/Next y React Native.
