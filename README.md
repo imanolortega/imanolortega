@@ -8,6 +8,6 @@ Trabajo con NextJS en el Front y generalmente con algún CMS (headless o no) en 
 
 👉 [Personal Site](https://imanol.vercel.app/)
 
-👉 [Más Canales](https://mascanales.vercel.app/)
+🖥️ [Último proyecto: Más Canales](https://mascanales.vercel.app/)
 
-👉 [LinkedIn](https://www.linkedin.com/in/imanol-rtega/)
+👋 [LinkedIn](https://www.linkedin.com/in/imanol-rtega/)
