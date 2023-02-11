@@ -1,5 +1,5 @@
 ### Hi 👋
-⭐ I am a Frontend programmer at Easytechgreen. Before that, I was a graphic designer and a Communication Social Bachelor's degree student.
+⭐ I am a Frontend programmer at Easytechgreen. Before that, I was a graphic designer, digital marketing manager and a Communication Social Bachelor's degree student.
 
 I started programming with Python in 2018 as a hobby, and since the end of 2019, I have been studying web programming.
 
