@@ -1,13 +1,12 @@
-### Buenas 👋
+### Hi 👋
+⭐ I am a Frontend programmer at Easytechgreen. Before that, I was a graphic designer and a Communication Social Bachelor's degree student.
 
-⭐ Soy programador Frontend en [Easytechgreen](https://easytechgreen.com/). Antes fui diseñador gráfico y estudiante de Licenciatura en Comunicación Social.
+I started programming with Python in 2018 as a hobby, and since the end of 2019, I have been studying web programming.
 
-Comencé a programar con Python en 2018 como un hobby, y desde fines de 2019 estudio programación web. 
-
-Trabajo con NextJS en el Front y generalmente con algún CMS (headless o no) en el Back. Utilizo JavaScript y TypeScript dependiendo del proyecto. También trabajé con algo de Vue JS y React Native. Mi foco hoy está en la experiencia de usuario: webs rápidas, intuitivas y accesibles.
+I work with NextJS on the Frontend and usually with some CMS (headless or not) on the Backend. I use JavaScript or TypeScript depending on the project. I also worked with some Vue JS and React Native. My focus today is on the user experience: fast, intuitive, and accessible websites.
 
 👉 [Personal Site](https://imanol.vercel.app/)
 
-🖥️ [Último proyecto: Más Canales](https://mascanales.vercel.app/)
+🖥️ [Last Project: Más Canales](https://mascanales.vercel.app/)
 
 👋 [LinkedIn](https://www.linkedin.com/in/imanol-rtega/)
