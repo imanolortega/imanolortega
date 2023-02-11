@@ -13,7 +13,7 @@ I work with NextJS on the Frontend and usually with some CMS (headless or not) o
 
 ## Languages and Tools
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,sass,nextjs,react,vue,graphql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,sass,react,nextjs,vue,graphql)](https://skillicons.dev)
 
 ---
 
