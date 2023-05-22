@@ -20,4 +20,4 @@ I work with NextJS on the Frontend and usually with some CMS (headless or not) o
 
 ---
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=imanolrtega&show_icons=true&hide_border=true)
+![Github stats](https://github-readme-stats.vercel.app/api?username=imanolortega&show_icons=true&hide_border=true)
