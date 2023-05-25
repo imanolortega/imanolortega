@@ -6,13 +6,13 @@ I started programming with Python in 2018 as a hobby, and since the end of 2019,
 I work with NextJS on the Frontend and usually with some CMS (headless or not) on the Backend. I have also worked with VueJS and React Native. My focus today is on the user experience: fast, intuitive, and accessible websites.
 
 👉 [Personal Site](https://imanolortega.dev/)  
-💼 [LinkedIn](https://www.linkedin.com/in/imanol-rtega/)  
+💼 [LinkedIn](https://www.linkedin.com/in/imanol-ortega-dev/)  
 
 ### Latest Projects:
 
 🖥️ [Más Canales](https://mascanales.vercel.app/)  
 🍏 [MacOS Dock Animation](https://mac-dock.vercel.app/)  
-🚀 [Last Technical Challenge](https://challenge-imanolrtega.vercel.app/)  
+🚀 [Last Technical Challenge](https://challenge-imanolortega.vercel.app/)  
 
 ## Languages and Tools
 
