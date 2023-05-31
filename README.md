@@ -16,8 +16,4 @@ I work with NextJS on the Frontend and usually with some CMS (headless or not) o
 
 ## Languages and Tools
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,sass,react,nextjs,vue,nodejs,graphql,firebase)](https://skillicons.dev)
-
----
-
-![Github stats](https://github-readme-stats.vercel.app/api?username=imanolortega&show_icons=true&hide_border=true)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,sass,react,nextjs,vue,nodejs,graphql,firebase,docker)](https://skillicons.dev)
