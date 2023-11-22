@@ -10,7 +10,7 @@ I work with NextJS on the Frontend and usually with some CMS (headless or not) o
 
 ### Latest Projects:
 
-💸 [Stablears] (https://stablears.vercel.app/)
+💸 [Stablears](https://stablears.vercel.app/)  
 🖥️ [Más Canales](https://mascanales.vercel.app/)  
 🍏 [MacOS Dock Animation](https://mac-dock.vercel.app/)  
 🚀 [Last Technical Challenge](https://challenge-imanolortega.vercel.app/)  
