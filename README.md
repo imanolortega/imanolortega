@@ -1,13 +1,15 @@
-## Hi 👋
-I'm a Front-end developer at Easytechgreen. Before that, I was a graphic designer, digital marketing manager and a Communication Social Bachelor's degree student.
+## Hola 👋
+Soy desarrollador Front-end. Antes fui diseñador gráfico, responsable de marketing digital y estudiante de la licenciatura en Comunicación Social.
 
-I started programming with Python in 2018 as a hobby, and since the end of 2019, I have been studying web programming.
+Empecé a programar con Python en 2018 como pasatiempo y desde finales de 2019 me dedico al estudio de la programación web. Trabajo como programador desde el 2021.
 
-I work with NextJS on the Frontend and usually with some CMS (headless or not) on the Backend. I have also worked with VueJS and React Native. My focus today is on the user experience: fast, intuitive, and accessible websites.
+Trabajo con Next.js en el Front-end y, generalmente, con algún CMS (headless o no) en el Back-end (PHP o Node). También he trabajado con VueJS. Hoy mi enfoque está en la experiencia del usuario: sitios rápidos, intuitivos y accesibles.
+
+Tengo una amplia variedad de intereses, que incluyen el diseño, el marketing, la fotografía, la música y mucho más. Apasionado por la programación y la web, siempre estoy con ganas de aprender las últimas tendencias del sector.
 
 👉 [Personal Site](https://imanolortega.dev/)  
 💼 [LinkedIn](https://www.linkedin.com/in/imanol-ortega-dev/)   
 
-## Languages and Tools
+## Lenguajes y herramientas
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,sass,react,nextjs,vue,nodejs,graphql,firebase,docker)](https://skillicons.dev)
