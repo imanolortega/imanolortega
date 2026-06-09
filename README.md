@@ -7,7 +7,7 @@ Trabajo con Next.js en el Front-end y, generalmente, con algún CMS (headless o 
 
 Tengo una amplia variedad de intereses, que incluyen el diseño, el marketing, la fotografía, la música y mucho más. Apasionado por la programación y la web, siempre estoy con ganas de aprender las últimas tendencias del sector.
 
-👉 [Personal Site](https://imanolortega.dev/)  
+👉 [Personal Site]([https://imanolortega.dev/](https://imanolortega.vercel.app/))  
 💼 [LinkedIn](https://www.linkedin.com/in/imanol-ortega-dev/)   
 
 ## Lenguajes y herramientas
